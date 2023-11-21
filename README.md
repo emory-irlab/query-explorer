@@ -11,6 +11,9 @@ For the convenience of researchers and developers, QueryExplorer can be quickly 
 
 To let us know how you've used QueryExplorer or for any inquires or collaboration, email us at kdhole -@- emory.edu
 
+### Recorded Annotations and Logs
+Researchers can look at the continuously recorded annotations consisting of – generated queries, post reformulation queries, query-document relevance annotations, feedback information – all with metadata of session and timestamps. These can be viewed in the user interface through the Settings tab or directly in their raw json format. Check out the [sample logs generated](https://github.com/emory-irlab/query-explorer/tree/main/sample_results).
+
 ## Citation
 If you've used QueryExplorer, consider citing our previous paper:
 
