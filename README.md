@@ -11,7 +11,7 @@ Out demonstration video can be watched [here](https://www.youtube.com/watch?v=sX
 
 To let us know how you've used QueryExplorer or for any inquires or collaboration, email us at kdhole -@- emory.edu
 
-If you've used QueryExplorer, consider citing the following:
+If you've used QueryExplorer, consider citing our previous paper:
 
 ```bibtex
 @misc{dhole2023interactive,
