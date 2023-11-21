@@ -6,7 +6,7 @@ Formulating effective search queries remains challenging, particularly when user
 
 Out demonstration video can be watched [here](https://www.youtube.com/watch?v=sXBU8-uWR3o)
 
-Colab Notebook
+### Colab Notebook
 <a href="https://github.com/emory-irlab/query-explorer/blob/main/Query_Explorer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>To quickly run the demo from your browser, click "Runtime > Run All" in the [colab notebook](https://github.com/emory-irlab/query-explorer/blob/main/Query_Explorer.ipynb) and you are all set.
 
 To let us know how you've used QueryExplorer or for any inquires or collaboration, email us at kdhole -@- emory.edu
