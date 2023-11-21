@@ -1,0 +1,162 @@
+[
+    {
+        "session": "cerise-whippet84",
+        "query": " How much money was spent on the port of piraeus? Port of piraeus, money, spend?",
+        "model_choice": "BM25",
+        "relevance_annotations": []
+    },
+    {
+        "session": "cerise-whippet84",
+        "query": " How much money was spent on the port of piraeus? china, xi, cosco",
+        "model_choice": "BM25",
+        "relevance_annotations": [
+            {
+                "id": 1,
+                "doc_test": "a synthesis procedure for an n port network  the method is based\non the bott duffin procedure for two port networks...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  a synthesis procedure for an n port network  the method is based\non the bott duffin procedure for two port networks...",
+                "score": "14.452170797135603",
+                "rating": 3.1
+            },
+            {
+                "id": 2,
+                "doc_test": "a contribution to the synthesis of resistive three ports  algebraic\nand topological treatment of a special case of three port network\nsynthesis  for italian version...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  a contribution to the synthesis of resistive three ports  algebraic\nand topological treatment of a special case of three port network\nsynthesis  for italian version...",
+                "score": "13.871966233540823",
+                "rating": 0.4
+            },
+            {
+                "id": 3,
+                "doc_test": "nonreciprocal parametric amplifier circuits  two circuit configurations\nare given which do not use a circulator but which have similar properties\nto the single port reflection amplifier with a three port circulator...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  nonreciprocal parametric amplifier circuits  two circuit configurations\nare given which do not use a circulator but which have similar properties\nto the single port reflection amplifier with a three port circulator...",
+                "score": "13.510369885897111",
+                "rating": 3.5
+            },
+            {
+                "id": 4,
+                "doc_test": "general n port synthesis with negative resistors...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  general n port synthesis with negative resistors...",
+                "score": "13.18040300560788",
+                "rating": 0
+            },
+            {
+                "id": 5,
+                "doc_test": "synthesis of transformerless active n port networks...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  synthesis of transformerless active n port networks...",
+                "score": "13.18040300560788",
+                "rating": 0
+            },
+            {
+                "id": 6,
+                "doc_test": "conditions for the impedance and admittance matrices of n ports without\nideal transformers...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  conditions for the impedance and admittance matrices of n ports without\nideal transformers...",
+                "score": "12.542490328486247",
+                "rating": 0
+            },
+            {
+                "id": 7,
+                "doc_test": "synthesis of n port active rc networks  it is proved that n is the\nsufficient and in general minimum number of con  rolled sources required\nto relize an arbitrary matrix of real rational functions as a transformerless\nactive rc n port network...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  synthesis of n port active rc networks  it is proved that n is the\nsufficient and in general minimum number of con  rolled sources required\nto relize an arbitrary matrix of real rational functions as a transformerless\nactive rc n port network...",
+                "score": "12.091979063571022",
+                "rating": 0
+            },
+            {
+                "id": 8,
+                "doc_test": "noise and noise free two port networks treated by the isometric circle\nmethod  see...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  noise and noise free two port networks treated by the isometric circle\nmethod  see...",
+                "score": "11.693562730803237",
+                "rating": 0
+            },
+            {
+                "id": 9,
+                "doc_test": "design theory of optimum negative resistance amplifiers  an examination\nis made of amplifiers obtained by imbedding a linear active one port\ndevice in arbitrary three port devices  the optimum gain bandwidth\nformula synthesis procedure and design curves are given for this\nand other amplifier configurations...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  design theory of optimum negative resistance amplifiers  an examination\nis made of amplifiers obtained by imbedding a linear active one port\ndevice in arbitrary three port devices  the optimum gain bandwidth\nformula synthesis procedure and design curves are given for this\nand other amplifier configurations...",
+                "score": "11.55291813978673",
+                "rating": 0
+            },
+            {
+                "id": 10,
+                "doc_test": "gain bandwidth and noise in maser amplifiers  a theoretical study\nreveals that the optimum gain bandwidth product of the two port maser\nis only half that of the circulator maser for the same basic cavity\nthe optimum noise figure is the same if some bandwidth is sacrificed\nin the two port maser  practical considerations may however make\nthe latter competitive...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  gain bandwidth and noise in maser amplifiers  a theoretical study\nreveals that the optimum gain bandwidth product of the two port maser\nis only half that of the circulator maser for the same basic cavity\nthe optimum noise figure is the same if some bandwidth is sacrificed\nin the two port maser  practical considerations may however make\nthe latter competitive...",
+                "score": "11.301018211545388",
+                "rating": 0
+            }
+        ]
+    },
+    {
+        "session": "cerise-whippet84",
+        "query": " How much money was spent on the port of piraeus? china, xi, cosco",
+        "model_choice": "BM25",
+        "relevance_annotations": [
+            {
+                "id": 1,
+                "doc_test": "a synthesis procedure for an n port network  the method is based\non the bott duffin procedure for two port networks...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  a synthesis procedure for an n port network  the method is based\non the bott duffin procedure for two port networks...",
+                "score": "14.452170797135603",
+                "rating": 0
+            },
+            {
+                "id": 2,
+                "doc_test": "a contribution to the synthesis of resistive three ports  algebraic\nand topological treatment of a special case of three port network\nsynthesis  for italian version...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  a contribution to the synthesis of resistive three ports  algebraic\nand topological treatment of a special case of three port network\nsynthesis  for italian version...",
+                "score": "13.871966233540823",
+                "rating": 0
+            },
+            {
+                "id": 3,
+                "doc_test": "nonreciprocal parametric amplifier circuits  two circuit configurations\nare given which do not use a circulator but which have similar properties\nto the single port reflection amplifier with a three port circulator...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  nonreciprocal parametric amplifier circuits  two circuit configurations\nare given which do not use a circulator but which have similar properties\nto the single port reflection amplifier with a three port circulator...",
+                "score": "13.510369885897111",
+                "rating": 0
+            },
+            {
+                "id": 4,
+                "doc_test": "general n port synthesis with negative resistors...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  general n port synthesis with negative resistors...",
+                "score": "13.18040300560788",
+                "rating": 0
+            },
+            {
+                "id": 5,
+                "doc_test": "synthesis of transformerless active n port networks...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  synthesis of transformerless active n port networks...",
+                "score": "13.18040300560788",
+                "rating": 2.1
+            },
+            {
+                "id": 6,
+                "doc_test": "conditions for the impedance and admittance matrices of n ports without\nideal transformers...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  conditions for the impedance and admittance matrices of n ports without\nideal transformers...",
+                "score": "12.542490328486247",
+                "rating": 0
+            },
+            {
+                "id": 7,
+                "doc_test": "synthesis of n port active rc networks  it is proved that n is the\nsufficient and in general minimum number of con  rolled sources required\nto relize an arbitrary matrix of real rational functions as a transformerless\nactive rc n port network...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  synthesis of n port active rc networks  it is proved that n is the\nsufficient and in general minimum number of con  rolled sources required\nto relize an arbitrary matrix of real rational functions as a transformerless\nactive rc n port network...",
+                "score": "12.091979063571022",
+                "rating": 1.6
+            },
+            {
+                "id": 8,
+                "doc_test": "noise and noise free two port networks treated by the isometric circle\nmethod  see...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  noise and noise free two port networks treated by the isometric circle\nmethod  see...",
+                "score": "11.693562730803237",
+                "rating": 0
+            },
+            {
+                "id": 9,
+                "doc_test": "design theory of optimum negative resistance amplifiers  an examination\nis made of amplifiers obtained by imbedding a linear active one port\ndevice in arbitrary three port devices  the optimum gain bandwidth\nformula synthesis procedure and design curves are given for this\nand other amplifier configurations...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  design theory of optimum negative resistance amplifiers  an examination\nis made of amplifiers obtained by imbedding a linear active one port\ndevice in arbitrary three port devices  the optimum gain bandwidth\nformula synthesis procedure and design curves are given for this\nand other amplifier configurations...",
+                "score": "11.55291813978673",
+                "rating": 0
+            },
+            {
+                "id": 10,
+                "doc_test": "gain bandwidth and noise in maser amplifiers  a theoretical study\nreveals that the optimum gain bandwidth product of the two port maser\nis only half that of the circulator maser for the same basic cavity\nthe optimum noise figure is the same if some bandwidth is sacrificed\nin the two port maser  practical considerations may however make\nthe latter competitive...",
+                "translation": "\ud83c\uddfa\ud83c\uddf8  gain bandwidth and noise in maser amplifiers  a theoretical study\nreveals that the optimum gain bandwidth product of the two port maser\nis only half that of the circulator maser for the same basic cavity\nthe optimum noise figure is the same if some bandwidth is sacrificed\nin the two port maser  practical considerations may however make\nthe latter competitive...",
+                "score": "11.301018211545388",
+                "rating": 0
+            }
+        ]
+    }
+]
