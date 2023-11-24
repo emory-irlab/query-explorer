@@ -4,6 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2311.11226-pink.svg)](https://arxiv.org/abs/2311.11226)
 ![Python version](https://img.shields.io/badge/lang-python-important)
 <a href="https://colab.research.google.com/github/emory-irlab/query-explorer/blob/main/Query_Explorer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+![License: Apache](https://img.shields.io/badge/License-Apache2.0-yellow.svg) 
 
 ## An Interactive Query Generation Assistant for Search and Exploration
 
